@@ -25,6 +25,11 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `npm run build`
 
+You can use this account for login to this page:
+username:'johnd',
+ password:'m38rmF$',
+
+
 any framework to build this project:
 a. React JS for JS framework
 b. tailwindcss for styling this project
